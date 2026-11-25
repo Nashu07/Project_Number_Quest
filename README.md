@@ -121,12 +121,10 @@ Screenshots of the game interface will be added here.
 ## 👥 Team Members
 
 1. Nashir Ali
-2. Chandan Singh&#x20;
+2. Chandan Singh
 3. Kush Agarwal
 4. Sagar
 5. Deepanshu Yadav
-
-*Update the team list according to your actual project group.*
 
 ## 🎓 Academic Project
 
