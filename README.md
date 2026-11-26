@@ -118,6 +118,10 @@ Screenshots of the game interface will be added here.
 - Input handling (`fgets()`, `strtol()`)
 - Header files and standard libraries
 
+
+## 👥 Team NAME 
+       CODE KNIGHT
+       
 ## 👥 Team Members
 
 1. Nashir Ali
