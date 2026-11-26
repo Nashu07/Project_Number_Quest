@@ -63,7 +63,7 @@ git clone https://github.com/Nashu07/Project_Number_Quest.git
 
 ### 2. Navigate to the Project Folder
 
-```bash
+``bash
 cd Project_Number_Quest
 ```
 
