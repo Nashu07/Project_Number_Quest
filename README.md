@@ -38,7 +38,7 @@ The game challenges players to guess a randomly generated secret number within a
 
 ## 📂 Project Structure
 
-```text
+``text
 Project_Number_Quest/
 │
 ├── Game.c
